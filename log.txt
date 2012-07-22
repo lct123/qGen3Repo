@@ -1,0 +1,1 @@
+20120722	Move original qGen2 into repository to begin conversion to qGen3
